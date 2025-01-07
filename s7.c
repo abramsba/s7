@@ -83,8 +83,6 @@
  * ---------------- compile time switches ----------------
  */
 
-#include "mus-config.h"
-
 /*
  * Your config file goes here, or just replace that #include line with the defines you need.
  * The compile-time switches involve booleans, complex numbers, and multiprecision arithmetic.
